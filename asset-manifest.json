@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://marwanrefaat.github.io/csb-6gm9w/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://marwanrefaat.github.io/csb-6gm9w/static/js/main.7abf7254.chunk.js",
+    "main.js.map": "https://marwanrefaat.github.io/csb-6gm9w/static/js/main.7abf7254.chunk.js.map",
+    "runtime-main.js": "https://marwanrefaat.github.io/csb-6gm9w/static/js/runtime-main.75aa179d.js",
+    "runtime-main.js.map": "https://marwanrefaat.github.io/csb-6gm9w/static/js/runtime-main.75aa179d.js.map",
+    "static/js/2.3126ded1.chunk.js": "https://marwanrefaat.github.io/csb-6gm9w/static/js/2.3126ded1.chunk.js",
+    "static/js/2.3126ded1.chunk.js.map": "https://marwanrefaat.github.io/csb-6gm9w/static/js/2.3126ded1.chunk.js.map",
+    "index.html": "https://marwanrefaat.github.io/csb-6gm9w/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://marwanrefaat.github.io/csb-6gm9w/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3126ded1.chunk.js.LICENSE.txt": "https://marwanrefaat.github.io/csb-6gm9w/static/js/2.3126ded1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75aa179d.js",
+    "static/js/2.3126ded1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7abf7254.chunk.js"
+  ]
+}

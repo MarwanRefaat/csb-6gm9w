@@ -1,0 +1,2 @@
+(this["webpackJsonpgamefi-sandbox-template"]=this["webpackJsonpgamefi-sandbox-template"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var s=n(3),c=(n(8),n(0));function i(){return Object(c.jsxs)("div",{className:"App",children:[Object(c.jsx)("h1",{children:"Hello GameFi"}),Object(c.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}const a=document.getElementById("root");Object(s.render)(Object(c.jsx)(i,{}),a)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.7abf7254.chunk.js.map
